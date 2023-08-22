@@ -54,11 +54,11 @@ a :hover {
 }
 
 .timetable:hover {
-    background-color: blue;
+    background-color: fuchsia;
 }
 
 .job:hover {
-    background-color: green;
+    background-color: pink;
 }
 
 .spandiv:hover {
